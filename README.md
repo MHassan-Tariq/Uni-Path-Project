@@ -31,7 +31,8 @@
 <!-- You can replace these links with real images -->
 ![Home Page]
 (<img width="959" alt="1" src="https://github.com/user-attachments/assets/38982f1f-db8b-4ac3-9c20-e5f2bc617e2f" />)
-![Recommendation Page](./screenshots/recommendation.png)
+![Recommendation Page]
+(<img width="956" alt="2" src="https://github.com/user-attachments/assets/ffc30a3a-fa51-4fc8-881d-5e19b8602afd" />)
 
 ---
 
