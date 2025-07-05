@@ -29,7 +29,8 @@
 ## 🖼️ Screenshots
 
 <!-- You can replace these links with real images -->
-![Form Page](./screenshots/form-page.png)
+![Home Page]
+(<img width="959" alt="1" src="https://github.com/user-attachments/assets/38982f1f-db8b-4ac3-9c20-e5f2bc617e2f" />)
 ![Recommendation Page](./screenshots/recommendation.png)
 
 ---
